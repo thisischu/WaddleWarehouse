@@ -1,4 +1,4 @@
-                              [![MasterHead](https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest/scale-to-width-down/500?cb=20210406230318)]()
+[![MasterHead](https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest/scale-to-width-down/500?cb=20210406230318)]()
 
 <h1 align="center">The Waddle Warehouse</h1>
 <h3 align="center">Your go-to destination for all things duck-related!</h3>
