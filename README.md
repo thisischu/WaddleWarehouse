@@ -1,4 +1,4 @@
-[![MasterHead]([https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest/scale-to-width-down/500?cb=20210406230318](https://rishavchanda.io))](https://rishavchanda.io)
+[![MasterHead]([https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest/scale-to-width-down/500?cb=20210406230318])]
 
 <h1 align="center">The Waddle Warehouse</h1>
 <h3 align="center">Waddle Warehouse is an exceptional online shopping destination for all duck enthusiasts. Our ecommerce site offers a wide range of products that revolve around ducks, providing an unrivaled selection for those who appreciate these delightful creatures. With a passion for everything duck-related, Waddle Warehouse is dedicated to bringing you the finest duck-themed merchandise to enhance your love for these feathered friends.</h3>
