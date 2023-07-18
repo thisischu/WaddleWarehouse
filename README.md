@@ -9,10 +9,6 @@
   <em>Waddle Warehouse is an exceptional online shopping destination for all duck enthusiasts. Our ecommerce site offers a wide range of products that revolve around ducks, providing an unrivaled selection for those who appreciate these delightful creatures. With a passion for everything duck-related, Waddle Warehouse is dedicated to bringing you the finest duck-themed merchandise to enhance your love for these feathered friends.</em>
 </p>
 
-<p align="center" height="20px">
-  <img src="https://culverduck.com/wp-content/uploads/2020/11/duck-animate-3-500x500.png">
-</p>
-
 ## 🌱 Discover Our Collection
 
 - 🧸 Our inventory includes **adorable duck plush toys**, perfect for cuddling or displaying as decorative pieces.
